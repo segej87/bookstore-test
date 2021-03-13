@@ -1,4 +1,4 @@
-module books.com/m
+module github.com/segej87/bookstore-test
 
 go 1.16
 
